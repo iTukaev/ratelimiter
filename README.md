@@ -1,8 +1,8 @@
 # ratelimiter
 
-Задача: 
-Написать ratelimiter со следующими критериями
+Task: 
+Make ratelimiter with parameters:
 
-1. на вход принимает набор команд
-2. запускает не более N команд одновременно, но не более X команд в минуту
-3. имеет 2 параметра запуска -n и -x
+1. Accepts a set of commands as input
+2. Runs no more than N commands at the same time, but no more than X commands per unit of time
+3. Has 2 run's parameters -n, -x
